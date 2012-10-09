@@ -139,6 +139,23 @@ h1 {
 	text-transform:uppercase;
 }
 
+a {
+	color: #e0e0e0;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #dbdbdb;
+}
+
+/* 
+a:hover {
+	color: #00aabb;
+	text-shadow: 0 0px 0 rgba(0,0,0,0.20);
+	text-decoration:none;
+}
+*/
+
 #projects {
 }
 
